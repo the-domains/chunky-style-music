@@ -1,14 +1,26 @@
-layout_spectrum: 0.9260651
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.518797
 color:
-  saturation: 0.7349624
-  lightness: 1
+  saturation: 0.7424812
   brandStrength: 0.9962406
+  lightness: 0.6779448
   brandColors:
     - '#0D0E16'
     - '#6E6664'
     - '#FFFAE0'
     - '#DEB677'
     - '#EA1E39'
-  rhythmicContrast: 1
-typography_spectrum: 0.518797
+  rhythmicContrast: 0.7399749
+layout_spectrum: 0.9260651
 name: CHUNKY STYLE MUSIC
