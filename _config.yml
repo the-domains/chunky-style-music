@@ -1,3 +1,7 @@
+name: CHUNKY STYLE MUSIC
+favicon: null
+layout_spectrum: 0.9260651
+typography_spectrum: 0.518797
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.518797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4686717
-  brandStrength: 1
-  lightness: 0.381579
   brandColors:
     - '#0D0E16'
     - '#6E6664'
     - '#FFFAE0'
     - '#DEB677'
     - '#EA1E39'
-  rhythmicContrast: 0.6077694
-layout_spectrum: 0.9260651
-name: CHUNKY STYLE MUSIC
+  brandStrength: 0.1875
+  lightness: 0.1875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
+purpose: []
