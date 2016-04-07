@@ -1,21 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:4144c949-1167-48cd-a4ee-bd3a034bc2a5'
+inLanguage: null
+starred: true
+keywords: []
 description: ''
+datePublished: '2016-04-07T16:51:02.311Z'
+dateModified: '2016-04-07T16:50:46.317Z'
 author: []
-datePublished: '2016-04-07T16:45:29.650Z'
-publisher:
-  domain: ''
-  name: ''
-title: Trident 24 Console
-dateModified: '2016-04-07T08:29:55.188Z'
+title: ' '
 sourcePath: _posts/2016-04-07-trident-24-console.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: trident-24-console/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Trident 24 Console
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf0b370-1b64-4e80-9c04-1bb6859d45f7.png)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf0b370-1b64-4e80-9c04-1bb6859d45f7.png)
