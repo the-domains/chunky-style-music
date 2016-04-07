@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.518797
 color:
-  saturation: 0.4154135
+  saturation: 0.4686717
   brandStrength: 1
-  lightness: 0.4843358
+  lightness: 0.381579
   brandColors:
     - '#0D0E16'
     - '#6E6664'
     - '#FFFAE0'
     - '#DEB677'
     - '#EA1E39'
-  rhythmicContrast: 0.5081454
-typography_spectrum: 0.518797
+  rhythmicContrast: 0.6077694
 layout_spectrum: 0.9260651
 name: CHUNKY STYLE MUSIC
