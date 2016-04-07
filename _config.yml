@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.518797
 color:
-  saturation: 0.7424812
+  saturation: 0.4154135
   brandStrength: 0.9962406
-  lightness: 0.6779448
+  lightness: 0.4843358
   brandColors:
     - '#0D0E16'
     - '#6E6664'
     - '#FFFAE0'
     - '#DEB677'
     - '#EA1E39'
-  rhythmicContrast: 0.7399749
+  rhythmicContrast: 0.5081454
+typography_spectrum: 0.518797
 layout_spectrum: 0.9260651
 name: CHUNKY STYLE MUSIC
