@@ -1,3 +1,4 @@
+favicon: null
 cta:
   bucket: null
   version: null
@@ -12,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3125
@@ -31,10 +32,9 @@ color:
     - '#EA1E39'
   lightness: 0.1875
 typography_spectrum: 0.39193
-layout_spectrum: 0.7694235
+layout_spectrum: 0.7951128
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: CHUNKY STYLE MUSIC
