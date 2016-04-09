@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'MICHAEL BRADFORD, PROPRIETOR'
-datePublished: '2016-04-09T05:45:52.805Z'
-dateModified: '2016-04-09T05:43:54.296Z'
+datePublished: '2016-04-09T05:48:56.986Z'
+dateModified: '2016-04-09T05:46:01.444Z'
 author: []
 title: 'CHUNKY STYLE MUSIC, LTD'
 sourcePath: _posts/2016-04-07-trident-24-console.md
