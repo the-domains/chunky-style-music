@@ -1,4 +1,5 @@
-layout_spectrum: 0.6253133
+favicon: null
+name: CHUNKY STYLE MUSIC
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#EA1E39'
   lightness: 0.1875
 typography_spectrum: 0.39193
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.693609
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: CHUNKY STYLE MUSIC
+cta:
+  bucket: null
+  version: null
+  domain: null
