@@ -6,11 +6,11 @@ isBasedOnUrl: 'urn:uuid:4144c949-1167-48cd-a4ee-bd3a034bc2a5'
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-04-07T16:51:02.311Z'
-dateModified: '2016-04-07T16:50:46.317Z'
+description: 'MICHAEL BRADFORD, PROPRIETOR'
+datePublished: '2016-04-09T05:45:52.805Z'
+dateModified: '2016-04-09T05:43:54.296Z'
 author: []
-title: ' '
+title: 'CHUNKY STYLE MUSIC, LTD'
 sourcePath: _posts/2016-04-07-trident-24-console.md
 published: true
 authors: []
@@ -23,4 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf0b370-1b64-4e80-9c04-1bb6859d45f7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf0b370-1b64-4e80-9c04-1bb6859d45f7.png)
