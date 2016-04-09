@@ -1,5 +1,4 @@
-favicon: null
-name: CHUNKY STYLE MUSIC
+layout_spectrum: 0.6253133
 opengraph:
   image: null
   type: null
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7750627
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: CHUNKY STYLE MUSIC
