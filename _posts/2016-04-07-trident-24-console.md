@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:4144c949-1167-48cd-a4ee-bd3a034bc2a5'
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-09T06:10:06.915Z'
-dateModified: '2016-04-09T06:09:36.394Z'
+datePublished: '2016-04-25T22:59:56.890Z'
+dateModified: '2016-04-25T22:53:30.212Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-07-trident-24-console.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
