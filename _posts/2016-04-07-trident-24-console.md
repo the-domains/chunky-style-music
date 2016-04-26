@@ -6,9 +6,11 @@ isBasedOnUrl: 'urn:uuid:4144c949-1167-48cd-a4ee-bd3a034bc2a5'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T23:07:01.612Z'
-dateModified: '2016-04-25T23:06:18.224Z'
-author: []
+datePublished: '2016-04-26T01:05:47.170Z'
+dateModified: '2016-04-25T23:07:11.285Z'
+author:
+  - name: ''
+    url: ''
 title: ''
 sourcePath: _posts/2016-04-07-trident-24-console.md
 published: true
