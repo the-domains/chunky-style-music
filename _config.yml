@@ -1,12 +1,30 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+typography_spectrum: 0.39193
+color:
+  saturation: 0.3125
+  brandStrength: 0.1875
+  lightness: 0.4774436
+  brandColors:
+    - '#0D0E16'
+    - '#6E6664'
+    - '#FFFAE0'
+    - '#DEB677'
+    - '#EA1E39'
+  rhythmicContrast: 0.4191729
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6741855
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: CHUNKY STYLE MUSIC
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -19,22 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Music Production
 purpose: []
-color:
-  saturation: 0.3125
-  brandStrength: 0.1875
-  lightness: 0.4774436
-  brandColors:
-    - '#0D0E16'
-    - '#6E6664'
-    - '#FFFAE0'
-    - '#DEB677'
-    - '#EA1E39'
-  rhythmicContrast: 0.4191729
-typography_spectrum: 0.39193
-layout_spectrum: 0.6741855
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: CHUNKY STYLE MUSIC
