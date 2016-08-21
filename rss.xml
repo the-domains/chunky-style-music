@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CHUNKY STYLE MUSIC]]></title>
-        <description><![CDATA[CHUNKY STYLE MUSIC]]></description>
+        <title><![CDATA[Music Production]]></title>
+        <description><![CDATA[Music Production]]></description>
         <link>https://thegrid.ai/chunky-style-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 01:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:31:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chunky-style-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MICHAEL BRADFORD - PRODUCER]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41df4db5-bbd8-4d57-9a1e-5cb8b305a579.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41df4db5-bbd8-4d57-9a1e-5cb8b305a579.jpg" alt="Control Room, Chunky Style Music">]]></description>
             <link>https://thegrid.ai/chunky-style-music/chunky-style-music-is/index.html</link>
             <guid isPermaLink="false">f6b09933-3fab-4d39-95ae-c19e9fa51379</guid>
-            <pubDate>Mon, 25 Apr 2016 23:44:28 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2016 22:31:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
