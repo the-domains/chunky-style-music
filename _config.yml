@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: CHUNKY STYLE MUSIC
+name: 'CHUNKY STYLE MUSIC, LTD'
 cta:
   bucket: null
   version: null
@@ -37,6 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Music Production
+title: 'Chunky Style Music, LTD'
 description: 'Composition, Arranging, Performance'
 purpose: []
